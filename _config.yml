@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Muhammad Ali Hamza"
+title                    : "Muhammad Ali Hamza's Homepage"
 title_separator          : "-"
 name                     : &name "Muhammad Ali Hamza"
 description              : &description "PhD Student at NDSLab, Sangmyung University"
@@ -29,7 +29,7 @@ author:
   bio              : "PhD Student at NDSLab, Sangmyung University"
   location         : "Cheonan, South Korea"
   employer         : #"Red Brick University"
-  uri              : # URL
+  uri              : https://Alicodee.github.io # URL
   email            : "alihamzaiub13@gmail.com" 
 
   # Academic websites
