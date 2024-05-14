@@ -1,3 +1,13 @@
+ ---
+ permalink: /
+title: "About me"
+ excerpt: "About me"
+ author_profile: true
+ redirect_from: 
+   - /about/
+   - /about.html
+ ---
+
 # About me
 I am Muhammad Ali Hamza, a PhD student at the Network Data Science Lab (NDSLab) at Sangmyung University, South Korea. I am supervised by Prof. Hyunchul Kim. My research focuses on employing deep learning techniques and large language models to assist in software vulnerability detection.
 
