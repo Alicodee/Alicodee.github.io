@@ -23,7 +23,7 @@ repository               : "Alicodee/Alicodee.github.io"
 
 author:
   # Biographic information
-  avatar           : /images/profile.png
+  avatar           : /files/profile.png
   name             : "Muhammad Ali Hamza"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student at NDSLab, Sangmyung University"
